@@ -7,3 +7,4 @@ primetoninc/jdk:1.8
 registry:2
 mysql:8.0.32
 redis:5.0.14
+keking/kkfileview:4.1.0
