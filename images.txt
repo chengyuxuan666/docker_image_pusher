@@ -1,14 +1,1 @@
-nginx
-openjdk:8-jdk-alpine
-#支持私库
-k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
-xhofe/alist:latest
-primetoninc/jdk:1.8
-registry:2
-mysql:8.0.32
-mysql:5.7
-mysql:8.0.28
-mysql:8.0.33
-redis:4.0
-redis:5.0.14
-keking/kkfileview:4.1.0
+nacos-server:2.2.3
