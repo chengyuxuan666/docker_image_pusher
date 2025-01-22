@@ -9,7 +9,6 @@ mysql:8.0.32
 mysql:5.7
 mysql:8.0.28
 mysql:8.0.33
-nacos:2.2.3
 redis:4.0
 redis:5.0.14
 keking/kkfileview:4.1.0
