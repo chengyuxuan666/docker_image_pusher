@@ -1,1 +1,2 @@
 emqx/emqx:5.9.0
+nginx
