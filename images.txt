@@ -1,1 +1,1 @@
-postgres:17.10
+nginx:1.30.2
